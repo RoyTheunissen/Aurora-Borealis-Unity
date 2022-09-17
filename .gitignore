@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# For JetBrains Rider
+/.idea/
+
+# Unity 2020 stuff
+/UserSettings/
+/Logs/
+/heu_session.txt
